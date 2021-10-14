@@ -3,7 +3,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nielz_us)](https://twitter.com/Nielz_us)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nielsuchpa/)](https://linkedin.com/in/nielsuchpa)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=51980400440&text=Olá!)](https://api.whatsapp.com/send?phone=51980400440&text=Hi!)
-[![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com)
+[![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:niels_us@outlook.com)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:niels_us@outlook.com)](mailto:niels_us@outlook.com)
 <!-- [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown) -->
 <!-- ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat) -->
@@ -56,4 +56,4 @@ I'm always looking to work with people that are hopeless idealists like me, as w
 
 <hr/>
 
-:star: From [@BrennanBrown](https://github.com/brennanbrown)
+:star: From [@NielsUchpa](https://github.com/niels-us)
