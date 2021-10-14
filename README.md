@@ -1,7 +1,7 @@
 <h1 align="center">Hola, Soy Niels Uchpa Salvador! :stars:</h1>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nielz_us)](https://twitter.com/Nielz_us)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nielsuchpa/)](https://linkedin.com/in/nielsuchpa/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nielsuchpa/)](https://linkedin.com/in/nielsuchpa)
 <!-- [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@brennanbrown)](https://medium.com/@brennanbrown) -->
 <!-- [![WordPress Blog](https://img.shields.io/badge/-Blog-21759B?style=flat&logo=WordPress&logoColor=white&link=https://wandernotebook.com)](https://wandernotebook.com) -->
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mail@brennanbrown.ca)](mailto:niels_us@outlook.com)
