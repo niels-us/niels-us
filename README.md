@@ -5,21 +5,16 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=51980400440&text=Olá!)](https://api.whatsapp.com/send?phone=51980400440&text=Hi!)
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:niels_us@outlook.com)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:niels_us@outlook.com)](mailto:niels_us@outlook.com)
-<!-- [![Buy Me A Coffee](https://img.shields.io/badge/-Buy%20Me%20A%20Coffee-FF813F?style=flat&logo=buy-me-a-coffee&logoColor=ffffff&link=https://ko-fi.com/brennanbrown)](https://ko-fi.com/brennanbrown) -->
-<!-- ![Pronouns](https://img.shields.io/badge/Pronouns-He%2FHim-brightgreen?style=flat) -->
-<!-- ![Open Source](http://img.shields.io/badge/-Open%20Source%20Fan-3DA639?style=flat&logo=open-source-initiative&logoColor=ffffff) -->
-
-<!-- <p align="center"> :octocat: <b><a href="https://www.brennanbrown.ca">Website</a> / <a href="https://www.brennanbrown.ca/resume.pdf">Resume</a> / <a href="https://www.brennanbrown.ca/project">Projects</a></b> :octocat: </p> -->
 
 ## Sobre Mi :wave:
 
-Hey there! :smile: My name is Brennan. I'm a 24-year-old Métis web developer and blogger from Winnipeg, Manitoba and currently reside in Calgary, Alberta. I just finished a Full Stack Developer Program at [EvolveU](https://www.evolveu.ca/), and I'm looking for open-source projects to contribute to and people to collaborate with! I love creating and tinkering with small, static websites using frameworks like Jekyll or Hugo. I'm a big proponent of putting an emphasis on accessibility and the [A11y project](https://www.a11yproject.com/) in web development.
+Ingeniero de Sistemas con más de 5 años de experiencia en el análisis y elaboración de soluciones TI con tecnologías Microsoft y de la Web. Conocimientos aplicados para la gestión de procesos industriales. Soy un profesional altamente responsable, con facilidad para trabajar en equipo, interactuar con los clientes, con disposición permanente al aprendizaje y entrega de valor a la empresa.
 
-I'm always looking to work with people that are hopeless idealists like me, as well as who are interested in creating and working on cool, interesting, and meaningful projects! Shoot me [an e-mail](mailto:mail@brennanbrown.ca) if that sounds like your cup of tea. :coffee:
+Siempre busco trabajar con personas que son idealistas como yo, y que están interesadas en crear y trabajar en proyectos geniales, interesantes y significativos. Mándame [un correo electrónico] (mailto: niels_us@outlook.com) si eso suena como tu taza de caté. :coffee:
 
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
-## Technologies I'm Learning :books:
+## Conocimientos :books:
 
 #### Front-end:
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
