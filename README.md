@@ -24,8 +24,7 @@ Siempre busco trabajar con personas que son idealistas como yo, y que están int
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-#### Back-end:
-![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
+#### Back-end: ![Python](http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffff4a)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=00d632)
 
 #### Base-datos:
