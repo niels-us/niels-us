@@ -8,7 +8,7 @@
 
 ### Sobre Mi :wave:
 
-Ingeniero de Sistemas con más de 5 años de experiencia en el análisis y elaboración de soluciones TI con tecnologías Microsoft y de la Web. Conocimientos aplicados para la gestión de procesos industriales. Soy un profesional altamente responsable, con facilidad para trabajar en equipo, interactuar con los clientes, con disposición permanente al aprendizaje y entrega de valor a la empresa.
+Ingeniero de Sistemas con más de 4 años de experiencia en el análisis y elaboración de soluciones TI con tecnologías Microsoft y de la Web. Conocimientos aplicados para la gestión de procesos industriales. Soy un profesional altamente responsable, con facilidad para trabajar en equipo, interactuar con los clientes, con disposición permanente al aprendizaje y entrega de valor a la empresa.
 
 Siempre busco trabajar con personas que son idealistas como yo, y que están interesadas en crear y trabajar en proyectos geniales, interesantes y significativos. Mándame [un correo electrónico](mailto:niels_us@outlook.com) si eso suena como tu taza de caté. :coffee:
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
