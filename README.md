@@ -27,7 +27,7 @@ Siempre busco trabajar con personas que son idealistas como yo, y que están int
 <!-- ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff) -->
 <!-- ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff) -->
 
-#### QA Automation:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![VS Code](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=cypress)&nbsp;![Sublime Text](https://img.shields.io/badge/Cucumber-black?style=flat-square&logo=cucumber)
+#### QA Automation:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Cypress](https://img.shields.io/badge/Cypress-232F3E?style=flat-square&logo=cypress)&nbsp;![Cucumber](https://img.shields.io/badge/Cucumber-black?style=flat-square&logo=cucumber)
 <!-- ![Atom](http://img.shields.io/badge/-Atom%20Editor-1aaf5d?style=flat-square&logo=atom)&nbsp; -->
 
 #### Editors:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)&nbsp;![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-3C4858?style=flat-square&logo=sublime-text)
