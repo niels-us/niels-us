@@ -32,6 +32,12 @@ Siempre busco trabajar con personas que son idealistas como yo, y que están int
 ![Lambda](https://img.shields.io/badge/Lambda-F79400?style=flat-square&logo=awslambda&logoColor=white)&nbsp;
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)&nbsp;
 ![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF5A00?style=flat-square&logo=awscloudformation&logoColor=white)&nbsp;
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat-square&logo=amazoncloudwatch&logoColor=white)&nbsp;
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=flat-square&logo=amazonrds&logoColor=white)&nbsp;or=white)&nbsp;
+![Route 53](https://img.shields.io/badge/Route%2053-232F3E?style=flat-square&logo=amazonroute53&logoColor=white)&nbsp;
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
+
 
 #### Cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
