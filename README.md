@@ -25,9 +25,7 @@ Siempre busco trabajar con personas que son idealistas como yo, y que están int
 
 #### cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
-#### Cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)&nbsp;
+#### AWS:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)&nbsp;
 ![SSM](https://img.shields.io/badge/SSM-545B64?style=flat-square&logo=awssystemsmanager&logoColor=white)&nbsp;
 ![Lambda](https://img.shields.io/badge/Lambda-F79400?style=flat-square&logo=awslambda&logoColor=white)&nbsp;
 ![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)&nbsp;
@@ -38,14 +36,6 @@ Siempre busco trabajar con personas que son idealistas como yo, y que están int
 ![Route 53](https://img.shields.io/badge/Route%2053-232F3E?style=flat-square&logo=amazonroute53&logoColor=white)&nbsp;
 ![ECS](https://img.shields.io/badge/ECS-FF9900?style=flat-square&logo=amazonecs&logoColor=white)
 
-
-#### Cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
-![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
-![SSM](https://img.shields.io/badge/SSM-545B64?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
-![Lambda](https://img.shields.io/badge/Lambda-F79400?style=flat-square&logo=awslambda&logoColor=white)&nbsp;
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)&nbsp;
-![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
 
 <!-- ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff) -->
 <!-- ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff) -->
