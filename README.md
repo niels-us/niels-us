@@ -26,6 +26,14 @@ Siempre busco trabajar con personas que son idealistas como yo, y que están int
 #### cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 
 #### Cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
+![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonapigateway&logoColor=white)&nbsp;
+![SSM](https://img.shields.io/badge/SSM-545B64?style=flat-square&logo=awssystemsmanager&logoColor=white)&nbsp;
+![Lambda](https://img.shields.io/badge/Lambda-F79400?style=flat-square&logo=awslambda&logoColor=white)&nbsp;
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)&nbsp;
+![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
+
+#### Cloud:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Amazon AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
 ![API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
 ![SSM](https://img.shields.io/badge/SSM-545B64?style=flat-square&logo=amazonaws&logoColor=white)&nbsp;
