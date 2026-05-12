@@ -1,4 +1,4 @@
-<h2 align="center">Hola, Soy Niels Uchpa Salvador! :stars:</h2>
+<h2 align="center">Hello, I am Niels Uchpa Salvador! :stars:</h2>
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Nielz_us)](https://twitter.com/Nielz_us)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/nielsuchpa/)](https://linkedin.com/in/nielsuchpa)
@@ -6,14 +6,14 @@
 [![Outlook](https://img.shields.io/badge/-Outlook-0078D4?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:niels_us@outlook.com)
 [![Email](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:niels_us@outlook.com)](mailto:niels_us@outlook.com)
 
-### Sobre Mi :wave:
+### About Me :wave:
 
-Ingeniero de Sistemas con más de 4 años de experiencia en el análisis y elaboración de soluciones TI con tecnologías Microsoft y de la Web. Conocimientos aplicados para la gestión de procesos industriales. Soy un profesional altamente responsable, con facilidad para trabajar en equipo, interactuar con los clientes, con disposición permanente al aprendizaje y entrega de valor a la empresa.
+Systems Engineer with over 5 years of experience in analyzing and developing IT solutions using Microsoft and Web technologies. Applied knowledge in the management of industrial processes. I am a highly responsible professional, with ease in working as part of a team, interacting with clients, a permanent commitment to learning, and delivering value to the company.
 
-Siempre busco trabajar con personas que son idealistas como yo, y que están interesadas en crear y trabajar en proyectos geniales, interesantes y significativos. Mándame [un correo electrónico](mailto:niels_us@outlook.com) si eso suena como tu taza de caté. :coffee:
+I always seek to work with people who are idealistic like me, and who are interested in creating and working on great, interesting, and meaningful projects. Get in touch with me. [un correo electrónico](mailto:niels_us@outlook.com) If that sounds like your cup of coffee. :coffee:
 <!-- More info on badges below: https://github.com/badges/shields/blob/master/doc/logos.md -->
 
-### Conocimientos :books:
+### Knowledge :books:
 <!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'> -->
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="200"/>
 
